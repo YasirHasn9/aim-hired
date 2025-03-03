@@ -23,3 +23,20 @@ pnpm install
 ```terminal
 pnpm run dev
 ```
+
+4. Load the extension in Chrome:
+- Go to `chrome://extensions/`
+- Enable **Developer Mode**
+- Click **"Load Unpacked"** and select the `aim-hired` folder
+
+## 🤖 Tech Stack
+- **Frontend:** React, TypeScript, Vite
+- **Scraping:** Puppeteer, Cheerio.js
+- **AI Integration:** OpenAI API
+- **Storage:** LocalStorage (Firebase later)
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+💡 **Contributions welcome!** Feel free to fork, submit issues, or open pull requests.
